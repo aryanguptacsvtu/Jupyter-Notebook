@@ -23,6 +23,7 @@ Jupyter-Notebook/
 ├── Student.csv                     # Student records
 ├── Toyota.csv                      # Toyota dataset
 ├── sample.csv, sample2.csv         # Sample CSV files
+├── requirements.txt                # Libraries
 └── README.md                       # This file
 ```
 
@@ -48,7 +49,7 @@ cd Jupyter-Notebook
 
 2. Install required packages:
 ```bash
-pip install numpy pandas jupyter openpyxl
+pip install -r requirements.txt
 ```
 
 3. Launch Jupyter Notebook:
