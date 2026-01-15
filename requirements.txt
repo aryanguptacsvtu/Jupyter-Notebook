@@ -1,0 +1,18 @@
+# Core Data Science Libraries
+numpy
+pandas
+
+# Jupyter Environment
+jupyter
+notebook
+
+# Excel File Support
+openpyxl
+xlrd
+
+# Data Visualization (Optional but recommended)
+matplotlib
+seaborn
+
+# Additional utilities
+ipython
